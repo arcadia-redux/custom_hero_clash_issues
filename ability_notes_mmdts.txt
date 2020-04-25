@@ -7,24 +7,25 @@
 "DOTA_Tooltip_ability_slark_pounce_ability_note"						"Cannot be <font color='#B694FF'>Multicasted</font>"
 
 //Rearm
-"DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_phoenix_supernova_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_skeleton_king_reincarna_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_undying_tombstone_lua_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_zuus_thundergods_vengea_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_furion_wrath_of_nature_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_spectre_haunt_ability_note"					"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_shadow_shaman_mass_serp_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_slark_shadow_dance_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_oracle_false_promise_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+
+"DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_phoenix_supernova_ability_note"					"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_skeleton_king_reincarna_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_undying_tombstone_lua_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_zuus_thundergods_vengea_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_furion_wrath_of_nature_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_spectre_haunt_ability_note"						"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_shadow_shaman_mass_serp_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_slark_shadow_dance_ability_note"					"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_oracle_false_promise_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Unlearn
-"DOTA_Tooltip_ability_elder_titan_ancestral_spirit_ability_note"	"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
+"DOTA_Tooltip_ability_elder_titan_ancestral_spirit_ability_note"		"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
 
 
 
 //Abaddon
-"DOTA_Tooltip_ability_abaddon_borrowed_time_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_abaddon_borrowed_time_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Alchemist
 "DOTA_Tooltip_ability_alchemist_unstable_concoction_ability_note"		"Cannot be <font color='#B694FF'>Multicasted</font>"
@@ -42,6 +43,7 @@
 
 
 //Bane
+"DOTA_Tooltip_ability_bane_enfeeble_ability_note"						"Does not trigger on <font color='#B694FF'>Point Target</font> abilities"
 "DOTA_Tooltip_ability_bane_nightmare_ability_note"						"Cannot be <font color='#B694FF'>Multicasted</font>"
 "DOTA_Tooltip_ability_bane_fiends_grip_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
 
@@ -52,7 +54,7 @@
 
 
 //Bloodseeker
-
+// TODO: Thirst
 
 //Bounty Hunter
 
@@ -61,13 +63,13 @@
 
 
 //Bristleback
-
+"DOTA_Tooltip_ability_bristleback_quill_spray_note"						"All of base damage, stack damage, and max damage cap are affected by spell amp"
 
 //Broodmother
 
 
 //Centaur Warrunner
-
+"DOTA_Tooltip_ability_centaur_return_note"								"Attack damage per charge affected by spell amp"
 
 //Chaos Knight
 
@@ -92,8 +94,8 @@
 "DOTA_Tooltip_ability_frostivus2018_dark_willow_bedlam_ability_note" 	"Cannot be <font color='#B694FF'>Multicasted</font>"
 
 //Dazzle
-"DOTA_Tooltip_ability_dazzle_bad_juju_ability_note"				"Cannot be combined with <font color='#B694FF'>Puck <b>Phase Shift</b></font>"
-"DOTA_Tooltip_ability_dazzle_shallow_grave_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_dazzle_bad_juju_ability_note"						"Cannot be combined with <font color='#B694FF'>Puck <b>Phase Shift</b></font>"
+"DOTA_Tooltip_ability_dazzle_shallow_grave_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Death Prophet
 
@@ -108,7 +110,7 @@
 
 
 //Drow Ranger
-"DOTA_Tooltip_ability_drow_ranger_marksmanship_ability_note"	"Cannot be combined with <font color='#B694FF'>Medusa <b>Split Shot</b></font>"
+"DOTA_Tooltip_ability_drow_ranger_marksmanship_ability_note"			"Cannot be combined with <font color='#B694FF'>Medusa <b>Split Shot</b></font>"
 
 //Earth Spirit
 
@@ -117,26 +119,28 @@
 
 
 //Elder Titan
-
+"DOTA_Tooltip_ability_elder_titan_natural_order_note"					"Does not affect <b>Roshan</b>"
+"DOTA_Tooltip_ability_elder_titan_earth_splitter_note"					"Does not affect <b>Roshan</b>"
 
 //Ember Spirit
 "DOTA_Tooltip_ability_ember_spirit_sleight_of_fist_ability_note"		"Cannot be <font color='#B694FF'>Multicasted</font>"
+// TODO: Aghs ult range?
 
 //Enchantress
 
 
 //Enigma
-"DOTA_Tooltip_ability_enigma_midnight_pulse_ability_note"				"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_enigma_midnight_pulse_ability_note"				"Cannot be <font color='#B694FF'>Multicasted</font><br>Does not affect <b>Roshan</b>"
 
 //Faceless Void
-"DOTA_Tooltip_ability_faceless_void_chronosphere_ability_note"		"Cannot be <font color='#B694FF'>Multicasted</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_faceless_void_chronosphere_ability_note"			"Cannot be <font color='#B694FF'>Multicasted</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
 "DOTA_Tooltip_ability_faceless_void_time_walk_ability_note"				"Cannot be <font color='#B694FF'>Multicasted</font>"
 
 //Grimstroke
 
 
 //Gyrocopter
-
+"DOTA_Tooltip_ability_gyrocopter_flak_cannon_note"						"Aghanim effect does <b>not</b> work if you're not Gyrocopter"
 
 //Huskar
 
@@ -387,4 +391,3 @@
 
 
 //Zeus
-
