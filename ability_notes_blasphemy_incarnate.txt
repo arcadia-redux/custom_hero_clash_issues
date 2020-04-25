@@ -1,0 +1,8 @@
+//"DOTA_Tooltip_ability_
+//_ability_note"
+//R: 182, G: 148, B: 255; #B694FF
+//"DOTA_Tooltip_ability_drow_ranger_marksmanship_ability_note"	"Cannot be combined with <font color='#B694FF'>Medusa <b>Split Shot</b></font>"
+//"DOTA_Tooltip_ability_medusa_split_shot_ability_note"			"Cannot be combined with <font color='#B694FF'>Drow Ranger <b>Marksmanship</b></font>"
+//"DOTA_Tooltip_ability_alchemist_unstable_concoction_ability_note"	"Cannot be <font color='#B694FF'>Multicasted</font>"
+//"DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+//"DOTA_Tooltip_ability_shredder_chakram_ability_note"				"Cannot be <font color='#B694FF'>unlearnt</font> or <font color='#B694FF'>swapped</font>"
