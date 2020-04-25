@@ -1,8 +1,408 @@
 //"DOTA_Tooltip_ability_
 //_ability_note"
 //R: 182, G: 148, B: 255; #B694FF
-//"DOTA_Tooltip_ability_drow_ranger_marksmanship_ability_note"	"Cannot be combined with <font color='#B694FF'>Medusa <b>Split Shot</b></font>"
-//"DOTA_Tooltip_ability_medusa_split_shot_ability_note"			"Cannot be combined with <font color='#B694FF'>Drow Ranger <b>Marksmanship</b></font>"
-//"DOTA_Tooltip_ability_alchemist_unstable_concoction_ability_note"	"Cannot be <font color='#B694FF'>Multicasted</font>"
-//"DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-//"DOTA_Tooltip_ability_shredder_chakram_ability_note"				"Cannot be <font color='#B694FF'>unlearnt</font> or <font color='#B694FF'>swapped</font>"
+
+//Ability combinations
+"DOTA_Tooltip_ability_drow_ranger_marksmanship_ability_note"	"Cannot be combined with <font color='#B694FF'>Medusa <b>Split Shot</b></font>"
+"DOTA_Tooltip_ability_medusa_split_shot_ability_note"			"Cannot be combined with <font color='#B694FF'>Drow Ranger <b>Marksmanship</b></font>"
+"DOTA_Tooltip_ability_dazzle_bad_juju_ability_note"				"Cannot be combined with <font color='#B694FF'>Puck <b>Phase Shift</b></font>"
+"DOTA_Tooltip_ability_puck_phase_shift_ability_note"			"Cannot be combined with <font color='#B694FF'>Dazzle <b>Bad Juju</b></font>"
+
+//Multicast + Rearm
+"DOTA_Tooltip_ability_faceless_void_chronosphere_ability_note"		"Cannot be <font color='#B694FF'>Multicasted</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_razor_eye_of_the_storm_ability_note"			"Cannot be <font color='#B694FF'>Multicasted</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
+
+//Multicast
+"DOTA_Tooltip_ability_ember_spirit_sleight_of_fist_ability_note"		"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_enigma_midnight_pulse_ability_note"				"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_bane_nightmare_ability_note"						"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_bane_fiends_grip_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_jakiro_macropyre_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_warlock_fatal_bonds_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_dark_willow_bedlam_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_frostivus2018_dark_willow_bedlam_ability_note" 	"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_shredder_chakram_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_shredder_chakram_2_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_razor_static_link_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_morphling_waveform_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_faceless_void_time_walk_ability_note"				"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_void_spirit_astral_step_ability_note"				"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_queenofpain_blink_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_slark_pounce_ability_note"						"Cannot be <font color='#B694FF'>Multicasted</font>"
+
+//Rearm
+"DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_phoenix_supernova_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_skeleton_king_reincarna_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_undying_tombstone_lua_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_zuus_thundergods_vengea_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_furion_wrath_of_nature_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_spectre_haunt_ability_note"					"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_shadow_shaman_mass_serp_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_warlock_rain_of_chaos_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_slark_shadow_dance_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_oracle_false_promise_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_dazzle_shallow_grave_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+
+//Unlearn
+"DOTA_Tooltip_ability_shredder_chakram_ability_note"				"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
+"DOTA_Tooltip_ability_elder_titan_ancestral_spirit_ability_note"	"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
+"DOTA_Tooltip_ability_void_spirit_aether_remnant_ability_note"		"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
+
+
+//Abaddon
+"DOTA_Tooltip_ability_abaddon_borrowed_time_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+
+//Alchemist
+"DOTA_Tooltip_ability_alchemist_unstable_concoction_ability_note"		"Cannot be <font color='#B694FF'>Multicasted</font>"
+
+//Ancient Apparition
+"DOTA_Tooltip_ability_ancient_apparition_ice_blast_ability_note"		"Cannot be <font color='#B694FF'>Multicasted</font>"
+
+//Anti-Mage
+"DOTA_Tooltip_ability_antimage_blink_ability_note"						"Cannot be <font color='#B694FF'>Multicasted</font>"
+
+//Arc Warden
+"DOTA_Tooltip_ability_arc_warden_tempest_double_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+
+//Axe
+
+
+//Bane
+
+
+//Batrider
+
+
+//Beastmaster
+
+
+//Bloodseeker
+
+
+//Bounty Hunter
+
+
+//Brewmaster
+
+
+//Bristleback
+
+
+//Broodmother
+
+
+//Centaur Warrunner
+
+
+//Chaos Knight
+
+
+//Chen
+
+
+//Clinkz
+
+
+//Clockwerk
+
+
+//Crystal Maiden
+
+
+//Dark Seer
+
+
+//Dark Willow
+
+
+//Dazzle
+
+
+//Death Prophet
+
+
+//Disruptor
+
+
+//Doom
+
+
+//Dragon Knight
+
+
+//Drow Ranger
+
+
+//Earth Spirit
+
+
+//Earthshaker
+
+
+//Elder Titan
+
+
+//Ember Spirit
+
+
+//Enchantress
+
+
+//Enigma
+
+
+//Faceless Void
+
+
+//Grimstroke
+
+
+//Gyrocopter
+
+
+//Huskar
+
+
+//Invoker
+
+
+//Io
+
+
+//Jakiro
+
+
+//Juggernaut
+
+
+//Keeper of the Light
+
+
+//Kunkka
+
+
+//Legion Commander
+
+
+//Leshrac
+
+
+//Lich
+
+
+//Lifestealer
+
+
+//Lina
+
+
+//Lion
+
+
+//Lone Druid
+
+
+//Luna
+
+
+//Lycan
+
+
+//Magnus
+
+
+//Mars
+
+
+//Medusa
+
+
+//Meepo
+
+
+//Mirana
+
+
+//Monkey King
+
+
+//Morphling
+
+
+//Naga Siren
+
+
+//Nature's Prophet
+
+
+//Necrophos
+
+
+//Night Stalker
+
+
+//Nyx Assassin
+
+
+//Ogre Magi
+
+
+//Omniknight
+
+
+//Oracle
+
+
+//Outworld Devourer
+
+
+//Pangolier
+
+
+//Phantom Assassin
+
+
+//Phantom Lancer
+
+
+//Phoenix
+
+
+//Puck
+
+
+//Pudge
+
+
+//Pugna
+
+
+//Queen of Pain
+
+
+//Razor
+
+
+//Riki
+
+
+//Rubick
+
+
+//Sand King
+
+
+//Shadow Demon
+
+
+//Shadow Fiend
+
+
+//Shadow Shaman
+
+
+//Silencer
+
+
+//Skywrath Mage
+
+
+//Slardar
+
+
+//Slark
+
+
+//Snapfire
+
+
+//Sniper
+
+
+//Spectre
+
+
+//Spirit Breaker
+
+
+//Storm Spirit
+
+
+//Sven
+
+
+//Techies
+
+
+//Templar Assassin
+
+
+//Terrorblade
+
+
+//Tidehunter
+
+
+//Timbersaw
+
+
+//Tinker
+
+
+//Tiny
+
+
+//Treant Protector
+
+
+//Troll Warlord
+
+
+//Tusk
+
+
+//Underlord
+
+
+//Undying
+
+
+//Ursa
+
+
+//Vengeful Spirit
+
+
+//Venomancer
+
+
+//Viper
+
+
+//Visage
+
+
+//Void Spirit
+
+
+//Warlock
+
+
+//Weaver
+
+
+//Windranger
+
+
+//Winter Wyvern
+
+
+//Witch Doctor
+
+
+//Wraith King
+
+
+//Zeus
+
