@@ -257,8 +257,9 @@
 
 
 //Razor
-"DOTA_Tooltip_ability_razor_eye_of_the_storm_ability_note"   "Cannot be <font color='#B694FF'>Multicast</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_razor_static_link_ability_note"   "Cannot be <font color='#B694FF'>Multicast</font><br>Does not affect creeps"
+"DOTA_Tooltip_ability_razor_eye_of_the_storm_ability_note"   "Cannot be <font color='#B694FF'>Multicast</font>"
+"DOTA_Tooltip_ability_razor_eye_of_the_storm_ability_note"   "Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_razor_static_link_ability_note"   "Cannot be <font color='#B694FF'>Multicast</font>"
 
 //Riki
 
@@ -270,7 +271,7 @@
 
 
 //Shadow Demon
-"DOTA_Tooltip_ability_shadow_demon_disruption_ability_note"   "Cannot be used on creeps"
+
 
 //Shadow Fiend
 "DOTA_Tooltip_ability_nevermore_requiem_ability_note"   "Requires <font color='#B694FF'>Necromastery</font> to have an effect"
@@ -301,7 +302,7 @@
 "DOTA_Tooltip_ability_spectre_haunt_ability_note"     "Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Spirit Breaker
-
+"DOTA_Tooltip_ability_spirit_breaker_nether_strike_ability_note"   "Requires <font color='#B694FF'>Greater Bash</font> in order to bash the target"
 
 //Storm Spirit
 
@@ -310,13 +311,14 @@
 
 
 //Techies
-
+"DOTA_Tooltip_ability_techies_land_mines_ability_note"   "Not affected by <font color='#B694FF'>spell amp</font> or <font color='#B694FF'>Crown of the Dominator</font>"
+"DOTA_Tooltip_ability_techies_remote_mines_ability_note"   "Not affected by <font color='#B694FF'>spell amp</font> or <font color='#B694FF'>Crown of the Dominator</font>"
 
 //Templar Assassin
 
 
 //Terrorblade
-
+"DOTA_Tooltip_ability_terrorblade_metamorphosis_ability_note"   "This ability will make you <font color='#B694FF'>ranged</font> for its duration"
 
 //Tidehunter
 
@@ -327,22 +329,23 @@
 "DOTA_Tooltip_ability_shredder_chakram_ability_note"					"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
 
 //Tinker
-
+"DOTA_Tooltip_ability_rearm_datadriven_ability_note"   "Is available to be levelled at levels 6, 21 & 36"
 
 //Tiny
-
+"DOTA_Tooltip_ability_tiny_grow_ability_note"   "Is not affected by <font color='#B694FF'>break</font>"
 
 //Treant Protector
-
+"DOTA_Tooltip_ability_treant_overgrowth_ability_note"   "<font color='#B694FF'>Aghanim's Scepter</font> will not grant <font color='#B694FF'>Eyes in the Forest</font>"
 
 //Troll Warlord
-
+"DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_ability_note"   "<font color='#B694FF'>Whirling Axes (ranged)</font> is only usable by <font color='#B694FF'>ranged heroes</font>
+"DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_ability_note"   "Taking this ability ability grants <font color='#B694FF'>Whirling Axes (melee)</font> which is only usable by <font color='#B694FF'>melee heroes</font>"
 
 //Tusk
 
 
 //Underlord
-
+"DOTA_Tooltip_ability_abyssal_underlord_firestorm_ability_note"   "The max hp burn damage does not affect <font color='#B694FF'>Roshan</font>"
 
 //Undying
 "DOTA_Tooltip_ability_undying_tombstone_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
@@ -371,7 +374,7 @@
 "DOTA_Tooltip_ability_warlock_rain_of_chaos_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Weaver
-
+"DOTA_Tooltip_ability_weaver_the_swarm_ability_note"			"Is not affected by <font color='#B694FF'>Crown of the Dominator</font>"
 
 //Windranger
 
@@ -380,11 +383,14 @@
 
 
 //Witch Doctor
-
+"DOTA_Tooltip_ability_witch_doctor_death_ward_ability_note"			"Is affected <font color='#B694FF'>Crown of the Dominator</font>"
 
 //Wraith King
 "DOTA_Tooltip_ability_skeleton_king_reincarnation_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_skeleton_king_reincarnation_ability_note"			"<font color='#B694FF'>Aghanim's Scepter</font> effect has been removed"
 
 //Zeus
 "DOTA_Tooltip_ability_zuus_thundergods_vengeance_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 "DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_zuus_static_field_ability_note"			"Only gets applied by <font color='#B694FF'>Zeus'</font> spells damaging creeps"
+"DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"			"<font color='#B694FF'>Nimbus</font> will only deal damage if you have <font color='#B694FF'>Lightning Bolt</font>"
