@@ -2,21 +2,19 @@
 //_ability_note"
 //R: 182, G: 148, B: 255; #B694FF
 
+
+
 //Multicast
 "DOTA_Tooltip_ability_queenofpain_blink_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
-"DOTA_Tooltip_ability_slark_pounce_ability_note"						"Cannot be <font color='#B694FF'>Multicasted</font>"
+
+
 
 //Rearm
-"DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 "DOTA_Tooltip_ability_phoenix_supernova_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_skeleton_king_reincarna_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_undying_tombstone_lua_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_zuus_thundergods_vengea_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 "DOTA_Tooltip_ability_furion_wrath_of_nature_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_spectre_haunt_ability_note"					"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_shadow_shaman_mass_serp_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_slark_shadow_dance_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
 "DOTA_Tooltip_ability_oracle_false_promise_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+
+
 
 //Unlearn
 "DOTA_Tooltip_ability_elder_titan_ancestral_spirit_ability_note"	"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
@@ -259,8 +257,8 @@
 
 
 //Razor
-"DOTA_Tooltip_ability_razor_eye_of_the_storm_ability_note"			"Cannot be <font color='#B694FF'>Multicasted</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_razor_static_link_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_razor_eye_of_the_storm_ability_note"   "Cannot be <font color='#B694FF'>Multicast</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_razor_static_link_ability_note"   "Cannot be <font color='#B694FF'>Multicast</font><br>Does not affect creeps"
 
 //Riki
 
@@ -272,13 +270,13 @@
 
 
 //Shadow Demon
-
+"DOTA_Tooltip_ability_shadow_demon_disruption_ability_note"   "Cannot be used on creeps"
 
 //Shadow Fiend
-
+"DOTA_Tooltip_ability_nevermore_requiem_ability_note"   "Requires <font color='#B694FF'>Necromastery</font> to have an effect"
 
 //Shadow Shaman
-
+"DOTA_Tooltip_ability_shadow_shaman_mass_serpent_ward_ability_note"		"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Silencer
 
@@ -290,7 +288,8 @@
 
 
 //Slark
-
+"DOTA_Tooltip_ability_slark_shadow_dance_ability_note"		 "Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_slark_pounce_ability_note"						"Cannot be <font color='#B694FF'>Multicast</font>"
 
 //Snapfire
 
@@ -299,7 +298,7 @@
 
 
 //Spectre
-
+"DOTA_Tooltip_ability_spectre_haunt_ability_note"     "Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Spirit Breaker
 
@@ -323,8 +322,8 @@
 
 
 //Timbersaw
-"DOTA_Tooltip_ability_shredder_chakram_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
-"DOTA_Tooltip_ability_shredder_chakram_2_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_shredder_chakram_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
+"DOTA_Tooltip_ability_shredder_chakram_2_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
 "DOTA_Tooltip_ability_shredder_chakram_ability_note"					"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
 
 //Tinker
@@ -346,7 +345,7 @@
 
 
 //Undying
-
+"DOTA_Tooltip_ability_undying_tombstone_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Ursa
 
@@ -364,11 +363,11 @@
 
 
 //Void Spirit
-"DOTA_Tooltip_ability_void_spirit_astral_step_ability_note"				"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_void_spirit_astral_step_ability_note"				"Cannot be <font color='#B694FF'>Multicast</font>"
 "DOTA_Tooltip_ability_void_spirit_aether_remnant_ability_note"		"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
 
 //Warlock
-"DOTA_Tooltip_ability_warlock_fatal_bonds_ability_note"					"Cannot be <font color='#B694FF'>Multicasted</font>"
+"DOTA_Tooltip_ability_warlock_fatal_bonds_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
 "DOTA_Tooltip_ability_warlock_rain_of_chaos_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Weaver
@@ -384,7 +383,8 @@
 
 
 //Wraith King
-
+"DOTA_Tooltip_ability_skeleton_king_reincarnation_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Zeus
-
+"DOTA_Tooltip_ability_zuus_thundergods_vengeance_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
