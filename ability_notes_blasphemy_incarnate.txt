@@ -8,8 +8,8 @@
 "DOTA_Tooltip_ability_jakiro_macropyre_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
 
 //Juggernaut
-"DOTA_Tooltip_ability_juggernaut_omni_slash_ability_note"				"Can jump on <font color='#B694FF'>ancient creeps or Roshan</font> but cannot target them"
-"DOTA_Tooltip_ability_juggernaut_swift_slash_ability_note"				"Can jump on <font color='#B694FF'>ancient creeps or Roshan</font> but cannot target them"
+"DOTA_Tooltip_ability_juggernaut_omni_slash_ability_note"				"Can jump on <font color='#B694FF'>ancient creeps</font> or <font color='#B694FF'>Roshan</font> but cannot target them"
+"DOTA_Tooltip_ability_juggernaut_swift_slash_ability_note"				"Can jump on <font color='#B694FF'>ancient creeps</font> or <font color='#B694FF'>Roshan</font> but cannot target them"
 
 //Keeper of the Light
 "DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_ability_note"			"Not affected by <font color='#B694FF'>Crown of the Dominator</font>"
@@ -41,7 +41,7 @@
 //"DOTA_Tooltip_ability_lone_druid_savage_roar_ability_note"				"Does not affect <font color='#B694FF'>Roshan</font>"
 
 //Luna
-"DOTA_Tooltip_ability_luna_eclipse_ability_note"						"Ministun talent requires <font color='#B694FF'>Luna's <b>Lucent Beam</b></font>"
+"DOTA_Tooltip_ability_luna_eclipse_ability_note"						"Ministun talent requires <font color='#B694FF'>Lucent Beam</font>"
 
 //Lycan
 "DOTA_Tooltip_ability_lycan_shapeshift_ability_note"				"Causes the user to become <font color='#B694FF'>melee</font> for the duration"
@@ -66,8 +66,8 @@
 
 //Morphling
 "DOTA_Tooltip_ability_morphling_waveform_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
-"DOTA_Tooltip_ability_morphling_morph_agi_ability_note"					"Comes with <font color='#B694FF'>Morphling's <b>Strength Shift</b></font>"
-"DOTA_Tooltip_ability_morphling_adaptive_strike_agi_ability_note"		"Comes with <font color='#B694FF'>Morphling's <b>Adaptive Strike (Strength)</b></font>"
+"DOTA_Tooltip_ability_morphling_morph_agi_ability_note"					"Taking this ability ability also grants <font color='#B694FF'>Strength Shift</font>"
+"DOTA_Tooltip_ability_morphling_adaptive_strike_agi_ability_note"		"Taking this ability ability also grants <font color='#B694FF'>Adaptive Strike (Strength)</font>"
 
 //Naga Siren
 
@@ -82,14 +82,14 @@
 
 
 //Nyx Assassin
-"DOTA_Tooltip_ability_nyx_assassin_vendetta_ability_note"			"Sceptre grants <font color='#B694FF'>Nyx Assassin's <b>Burrow</b></font>"
+"DOTA_Tooltip_ability_nyx_assassin_vendetta_ability_note"			"<font color='#B694FF'>Aghanim's Sceptre</font> grants <font color='#B694FF'>Burrow</font>"
 
 //Ogre Magi
 "DOTA_Tooltip_ability_ogre_magi_multicast_custom_ability_note"		"Does not affect some abilities"
 
 //Omniknight
-"DOTA_Tooltip_ability_omniknight_purification_ability_note"						"Only damage is affected by <font color='#B694FF'>spell amplification</font>"
-"DOTA_Tooltip_ability_frostivus2018_omniknight_purification_ability_note"		"Only damage is affected by <font color='#B694FF'>spell amplification</font>"
+"DOTA_Tooltip_ability_omniknight_purification_ability_note"						"Only damage is affected by <font color='#B694FF'>spell amp</font>"
+"DOTA_Tooltip_ability_frostivus2018_omniknight_purification_ability_note"		"Only damage is affected by <font color='#B694FF'>spell amp</font>"
 
 //Oracle
 "DOTA_Tooltip_ability_oracle_false_promise_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
@@ -108,7 +108,7 @@
 
 //Phoenix
 "DOTA_Tooltip_ability_phoenix_supernova_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
-"DOTA_Tooltip_ability_phoenix_sun_ray_ability_note"				"Does not affect<font color='#B694FF'>ancients or Roshan</font>"
+"DOTA_Tooltip_ability_phoenix_sun_ray_ability_note"				"Does not affect<font color='#B694FF'>ancients</font> or <font color='#B694FF'>Roshan</font>"
 
 //Puck
 "DOTA_Tooltip_ability_puck_phase_shift_ability_note"			"Cannot be combined with <font color='#B694FF'>Dazzle's <b>Bad Juju</b></font>"
