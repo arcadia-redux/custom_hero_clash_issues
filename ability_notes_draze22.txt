@@ -172,7 +172,7 @@
 //"DOTA_Tooltip_ability_lone_druid_savage_roar_ability_note"				"Does not affect <font color='#B694FF'>Roshan</font>"
 
 //Luna
-"DOTA_Tooltip_ability_luna_eclipse_ability_note"						"Ministun talent requires <font color='#B694FF'>Lucent Beam</font>"
+"DOTA_Tooltip_ability_luna_eclipse_lua_ability_note"						"Ministun talent requires <font color='#B694FF'>Lucent Beam</font>"
 
 //Lycan
 "DOTA_Tooltip_ability_lycan_shapeshift_ability_note"				"Causes the user to become <font color='#B694FF'>melee</font> for the duration"
@@ -286,7 +286,7 @@
 
 
 //Slardar
-"DOTA_Tooltip_ability_snapfire_lil_shredder_ability_note"     "Not affected by <font color='#B694FF'>spell amp</font>"
+"DOTA_Tooltip_ability_slardar_bash_ability_note"     "Not affected by <font color='#B694FF'>spell amp</font>"
 
 
 //Slark
@@ -332,15 +332,15 @@
 "DOTA_Tooltip_ability_shredder_chakram_ability_note"					"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
 
 //Tinker
-"DOTA_Tooltip_ability_rearm_datadriven_ability_note"   "Is available to be levelled at levels 6, 21 & 36"
-"DOTA_Tooltip_ability_rearm_datadriven_ability_note"   "Does not affect some abilities"
+"DOTA_Tooltip_ability_tinker_rearm_datadriven_ability_note"   "Is available to be levelled at levels 6, 21 & 36"
+"DOTA_Tooltip_ability_tinker_rearm_datadriven_ability_note"   "Does not affect some abilities"
 
 //Tiny
 "DOTA_Tooltip_ability_tiny_grow_ability_note"   "Is not affected by <font color='#B694FF'>break</font>"
 
 //Treant Protector
 "DOTA_Tooltip_ability_treant_overgrowth_ability_note"   "<font color='#B694FF'>Aghanim's Scepter</font> will not grant <font color='#B694FF'>Eyes in the Forest</font>"
-"DOTA_Tooltip_treant_leech_seed_ability_note"   "<font color='#B694FF'>Leach Seed</font> heal is not affected by <font color='#B694FF'>spell amp</font>"
+"DOTA_Tooltip_ability_treant_leech_seed_ability_note"   "<font color='#B694FF'>Leach Seed</font> heal is not affected by <font color='#B694FF'>spell amp</font>"
 
 //Troll Warlord
 "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_ability_note"   "<font color='#B694FF'>Whirling Axes (ranged)</font> is only usable by <font color='#B694FF'>ranged heroes</font>"
