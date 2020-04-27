@@ -1,8 +1,6 @@
 //"DOTA_Tooltip_ability_
 //_ability_note"
 //R: 182, G: 148, B: 255; #B694FF
-
-
 //Abaddon
 "DOTA_Tooltip_ability_abaddon_borrowed_time_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
 
@@ -110,8 +108,6 @@
 
 //Enigma
 "DOTA_Tooltip_ability_enigma_midnight_pulse_ability_note"				"Cannot be <font color='#B694FF'>Multicast</font><br>Does not affect <font color='#B694FF'>Roshan</font>"
-"DOTA_Tooltip_ability_enigma_black_hole_ability_note"				"<font color='#B694FF'>Midnight Pulse</font> is required for <font color='#B694FF'>Aghanim's Scepter</font> buff to deal damage"
-"DOTA_Tooltip_ability_enigma_black_hole_ability_note"				"<font color='#B694FF'>Aghanim's Scepter</font> buff adds <font color='#B694FF'>pure damage</font> and affects <font color='#B694FF'>Roshan</font>"
 
 //Faceless Void
 "DOTA_Tooltip_ability_faceless_void_chronosphere_ability_note"			"Cannot be <font color='#B694FF'>Multicast</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
@@ -121,8 +117,7 @@
 
 
 //Gyrocopter
-"DOTA_Tooltip_ability_gyrocopter_flak_cannon_note"						"<font color='#B694FF'>Aghanim's Sceptre</font> effect only works as <font color='#B694FF'>Gyrocopter</font> and does not require <font color='#B694FF'>Flak Cannon</font>"
-"DOTA_Tooltip_ability_gyrocopter_flak_cannon_note"     "Has a lower radius on <font color='#B694FF'>melee heroes</font>"
+"DOTA_Tooltip_ability_gyrocopter_flak_cannon_note"						"<font color='#B694FF'>Aghanim's Sceptre</font> effect only works with <font color='#B694FF'>Gyrocopter</font>"
 
 //Huskar
 
@@ -132,17 +127,17 @@
 
 //Io
 "DOTA_Tooltip_ability_wisp_spirits_ability_note"						"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
-"DOTA_Tooltip_ability_wisp_spirits_ability_note"						"Unless you are <font color='#B694FF'>Io, Aghanim's Scepter</font> must be bought before <font color='#B694FF'>Spirits</font> is levelled to level 4 or it will not work"
 
 //Jakiro
 "DOTA_Tooltip_ability_jakiro_macropyre_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
 
 //Juggernaut
-"DOTA_Tooltip_ability_juggernaut_omni_slash_ability_note"				"Can jump onto <font color='#B694FF'>ancient creeps</font> or <font color='#B694FF'>Roshan</font> but cannot be cast on them"
-"DOTA_Tooltip_ability_juggernaut_swift_slash_ability_note"				"Can jump onto <font color='#B694FF'>ancient creeps</font> or <font color='#B694FF'>Roshan</font> but cannot be cast on them"
+"DOTA_Tooltip_ability_juggernaut_omni_slash_ability_note"				"Can jump on <font color='#B694FF'>ancient creeps</font> or <font color='#B694FF'>Roshan</font> but cannot target them"
+"DOTA_Tooltip_ability_juggernaut_swift_slash_ability_note"				"Can jump on <font color='#B694FF'>ancient creeps</font> or <font color='#B694FF'>Roshan</font> but cannot target them"
 
 //Keeper of the Light
 "DOTA_Tooltip_ability_keeper_of_the_light_will_o_wisp_ability_note"			"Not affected by <font color='#B694FF'>Crown of the Dominator</font>"
+
 
 //Kunkka
 
@@ -167,6 +162,7 @@
 
 //Lone Druid
 "DOTA_Tooltip_ability_lone_druid_spirit_bear_ability_note"				"Can be damaged in the <font color='#B694FF'>fountain</font> by other players"
+"DOTA_Tooltip_ability_lone_druid_true_form_ability_note"				"Taking this ability ability also grants <font color='#B694FF'>Battle Cry</font> and <font color='#B694FF'>Druid Form</font>"
 //"DOTA_Tooltip_ability_lone_druid_savage_roar_ability_note"				"Does not affect <font color='#B694FF'>Roshan</font>"
 
 //Luna
@@ -176,24 +172,23 @@
 "DOTA_Tooltip_ability_lycan_shapeshift_ability_note"				"Causes the user to become <font color='#B694FF'>melee</font> for the duration"
 
 //Magnus
-"DOTA_Tooltip_ability_magnataur_empower_ability_note"				"Has double the effect when cast on yourself"
+
 
 //Mars
 
 
 //Medusa
 "DOTA_Tooltip_ability_medusa_split_shot_ability_note"			"Cannot be combined with <font color='#B694FF'>Drow Ranger's <b>Marksmanship</b></font>"
-"DOTA_Tooltip_ability_medusa_split_shot_ability_note"			"<font color='#B694FF'>Auto-cast</font> abilities will use extra mana based on the number of units hit even if you don't have the split shot uses modifiers talent"
-"DOTA_Tooltip_ability_medusa_split_shot_ability_note"			"Abilities that give you a limited number of on hit effects (overpower, refraction, etc) will use extra charges based on the number of units hit even if you don't have the split shot uses modifiers talent"
 
 //Meepo
 
 
 //Mirana
-"DOTA_Tooltip_ability_mirana_arrow_ability_note"		"Instantly kills any creep"
+
 
 //Monkey King
 "DOTA_Tooltip_ability_monkey_king_boundless_strike_ability_note"		"Does not cleave with <font color='#B694FF'>battlefury or empower</font>"
+"DOTA_Tooltip_ability_monkey_king_wukongs_command_ability_note"                  "Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
 
 //Morphling
 "DOTA_Tooltip_ability_morphling_waveform_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
@@ -320,7 +315,7 @@
 "DOTA_Tooltip_ability_terrorblade_metamorphosis_ability_note"   "This ability will make you <font color='#B694FF'>ranged</font> for its duration"
 
 //Tidehunter
-"DOTA_Tooltip_ability_tidehunter_anchor_smash_ability_note"   "Does not <font color='#B694FF'>cleave</font> from <font color='#B694FF'>Battle Fury</font> or <font color='#B694FF'>Empower</font> and cannot deal <font color='#B694FF'>splash damage</font> from <font color='#B694FF'>Elder Dragon Form</font>"
+"DOTA_Tooltip_ability_tidehunter_anchor_smash_ability_note"   "Does not <font color='#B694FF'>cleave</font> from <font color='#B694FF'>Battle Fury</font> or <font color='#B694FF'>Empower</font> and cannot deal <font color='#B694FF'>splash damage</font>"
 "DOTA_Tooltip_ability_tidehunter_anchor_smash_ability_note"   "Does not proc <font color='#B694FF'>Split Shot</font>"
 
 //Timbersaw
@@ -330,7 +325,6 @@
 
 //Tinker
 "DOTA_Tooltip_ability_rearm_datadriven_ability_note"   "Is available to be levelled at levels 6, 21 & 36"
-"DOTA_Tooltip_ability_rearm_datadriven_ability_note"   "Does not affect some abilities"
 
 //Tiny
 "DOTA_Tooltip_ability_tiny_grow_ability_note"   "Is not affected by <font color='#B694FF'>break</font>"
