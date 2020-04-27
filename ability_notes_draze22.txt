@@ -120,7 +120,7 @@
 
 
 //Gyrocopter
-"DOTA_Tooltip_ability_gyrocopter_flak_cannon_note"						"<font color='#B694FF'>Aghanim's Sceptre</font> effect only works as <font color='#B694FF'>Gyrocopter</font> and does not require <font color='#B694FF'>Flak Cannon</font><br>Has a lower radius on <font color='#B694FF'>melee heroes</font>"
+"DOTA_Tooltip_ability_gyrocopter_flak_cannon_ability_note"						"<font color='#B694FF'>Aghanim's Sceptre</font> effect only works as <font color='#B694FF'>Gyrocopter</font> and does not require <font color='#B694FF'>Flak Cannon</font><br>Has a lower radius on <font color='#B694FF'>melee heroes</font>"
 
 //Huskar
 
