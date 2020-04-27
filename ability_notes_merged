@@ -301,7 +301,7 @@
 
 
 //Sven
-
+"DOTA_Tooltip_ability_sven_great_cleave_ability_note"   "Works on both <font color='#B694FF'>ranged</font> and <font color='#B694FF'>melee</font> heroes<br><font color='#B694FF'>Cleave</font> is applied from the hero's location"
 
 //Techies
 "DOTA_Tooltip_ability_techies_land_mines_ability_note"   "Not affected by <font color='#B694FF'>spell amp</font> or <font color='#B694FF'>Crown of the Dominator</font>"
@@ -334,7 +334,7 @@
 "DOTA_Tooltip_treant_leech_seed_ability_note"   "<font color='#B694FF'>Leach Seed</font> heal is not affected by <font color='#B694FF'>spell amp</font>"
 
 //Troll Warlord
-"DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_ability_note"   "<font color='#B694FF'>Whirling Axes (ranged)</font> is only usable by <font color='#B694FF'>ranged heroes</font>
+"DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_ability_note"   "<font color='#B694FF'>Whirling Axes (ranged)</font> is only usable by <font color='#B694FF'>ranged heroes</font>"
 "DOTA_Tooltip_ability_troll_warlord_whirling_axes_ranged_ability_note"   "Taking this ability also ability grants <font color='#B694FF'>Whirling Axes (melee)</font> which is only usable by <font color='#B694FF'>melee heroes</font>"
 
 //Tusk
