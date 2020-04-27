@@ -110,6 +110,8 @@
 
 //Enigma
 "DOTA_Tooltip_ability_enigma_midnight_pulse_ability_note"				"Cannot be <font color='#B694FF'>Multicast</font><br>Does not affect <font color='#B694FF'>Roshan</font>"
+"DOTA_Tooltip_ability_enigma_black_hole_ability_note"				"<font color='#B694FF'>Midnight Pulse</font> is required for <font color='#B694FF'>Aghanim's Scepter</font> buff to deal damage"
+"DOTA_Tooltip_ability_enigma_black_hole_ability_note"				"<font color='#B694FF'>Aghanim's Scepter</font> buff adds <font color='#B694FF'>pure damage</font> and affects <font color='#B694FF'>Roshan</font>"
 
 //Faceless Void
 "DOTA_Tooltip_ability_faceless_void_chronosphere_ability_note"			"Cannot be <font color='#B694FF'>Multicast</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
@@ -119,7 +121,7 @@
 
 
 //Gyrocopter
-"DOTA_Tooltip_ability_gyrocopter_flak_cannon_note"						"<font color='#B694FF'>Aghanim's Sceptre</font> effect only works with <font color='#B694FF'>Gyrocopter</font>"
+"DOTA_Tooltip_ability_gyrocopter_flak_cannon_note"						"<font color='#B694FF'>Aghanim's Sceptre</font> effect only works as <font color='#B694FF'>Gyrocopter</font> and does not require <font color='#B694FF'>Flak Cannon</font>"
 
 //Huskar
 
@@ -129,6 +131,7 @@
 
 //Io
 "DOTA_Tooltip_ability_wisp_spirits_ability_note"						"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
+"DOTA_Tooltip_ability_wisp_spirits_ability_note"						"Unless you are <font color='#B694FF'>Io, Aghanim's Scepter</font> must be bought before <font color='#B694FF'>Spirits</font> is levelled to level 4 or it will not work"
 
 //Jakiro
 "DOTA_Tooltip_ability_jakiro_macropyre_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
