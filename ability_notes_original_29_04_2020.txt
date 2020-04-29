@@ -79,7 +79,7 @@
 "DOTA_Tooltip_ability_frostivus2018_dark_willow_bedlam_ability_note" 	"Cannot be <font color='#B694FF'>Multicast</font>"
 
 //Dazzle
-"DOTA_Tooltip_ability_dazzle_bad_juju_ability_note"						"Cannot be combined with <font color='#B694FF'>Puck's <b>Phase Shift</b></font>"
+"DOTA_Tooltip_ability_dazzle_bad_juju_ability_note"						"<font color='#B694FF'>Puck's <b>Phase Shift</b></font> cannot be found if you have <font color='#B694FF'>Bad Juju</font>"
 "DOTA_Tooltip_ability_dazzle_shallow_grave_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Death Prophet
@@ -95,7 +95,7 @@
 "DOTA_Tooltip_ability_dragon_knight_elder_dragon_form_ability_note"		"This ability will make you <font color='#B694FF'>ranged</font> for its duration"
 
 //Drow Ranger
-"DOTA_Tooltip_ability_drow_ranger_marksmanship_ability_note"			"Cannot be combined with <font color='#B694FF'>Medusa's <b>Split Shot</b></font>"
+"DOTA_Tooltip_ability_drow_ranger_marksmanship_ability_note"			"<font color='#B694FF'>Medusa's <b>Split Shot</b></font> cannot be found if you have <font color='#B694FF'>Marksmanship</font>"
 
 //Earth Spirit
 
@@ -121,6 +121,7 @@
 //Faceless Void
 "DOTA_Tooltip_ability_faceless_void_chronosphere_ability_note"			"Cannot be <font color='#B694FF'>Multicast</font><br>Cannot be <font color='#B694FF'>Rearmed</font>"
 "DOTA_Tooltip_ability_faceless_void_time_walk_ability_note"				"Cannot be <font color='#B694FF'>Multicast</font>"
+"DOTA_Tooltip_ability_faceless_void_backtrack_ability_note"				"Can be combined with <font color='#B694FF'>Faceless Void's <b>Backtrack Talent</b></font>"
 
 //Grimstroke
 
@@ -187,7 +188,7 @@
 
 
 //Medusa
-"DOTA_Tooltip_ability_medusa_split_shot_ability_note"			"Cannot be combined with <font color='#B694FF'>Drow Ranger's <b>Marksmanship</b></font><br><font color='#B694FF'>Auto-cast</font> abilities will use extra mana based on the number of units hit even if you don't have the split shot uses modifiers talent<br>Abilities that give you a limited number of on hit effects (overpower, refraction, etc) will use extra charges based on the number of units hit even if you don't have the split shot uses modifiers talent"
+"DOTA_Tooltip_ability_medusa_split_shot_ability_note"			"<font color='#B694FF'>Drow Ranger's <b>Marksmanship</b></font> cannot be found if you have <font color='#B694FF'>Split Shot</font><br><font color='#B694FF'>Auto-cast</font> abilities will use extra mana based on the number of units hit even if you don't have the split shot uses modifiers talent<br>Abilities that give you a limited number of on hit effects (overpower, refraction, etc) will use extra charges based on the number of units hit even if you don't have the split shot uses modifiers talent"
 
 //Meepo
 
@@ -246,7 +247,7 @@
 "DOTA_Tooltip_ability_phoenix_sun_ray_ability_note"				"Does not affect<font color='#B694FF'>ancients</font> or <font color='#B694FF'>Roshan</font>"
 
 //Puck
-"DOTA_Tooltip_ability_puck_phase_shift_ability_note"			"Cannot be combined with <font color='#B694FF'>Dazzle's <b>Bad Juju</b></font>"
+"DOTA_Tooltip_ability_puck_phase_shift_ability_note"			"<font color='#B694FF'>Dazzle's <b>Bad Juju</b></font> cannot be found if you have <font color='#B694FF'>Phase Shift</font>"
 
 //Pudge
 
