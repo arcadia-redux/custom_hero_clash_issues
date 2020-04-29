@@ -133,7 +133,7 @@
 
 
 //Invoker
-"DOTA_Tooltip_ability_invoker_forge_spirits_lua_ability_note"			"Not affected by <font color='#B694FF'>Crown of the Dominator</font>"
+"DOTA_Tooltip_ability_invoker_forge_spirit_lua_ability_note"			"Not affected by <font color='#B694FF'>Crown of the Dominator</font>"
 
 //Io
 "DOTA_Tooltip_ability_wisp_spirits_ability_note"						"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font><br>Unless you are <font color='#B694FF'>Io, Aghanim's Scepter</font> must be bought before <font color='#B694FF'>Spirits</font> is levelled to level 4 or it will not work"
@@ -299,7 +299,7 @@
 
 //Sniper
 "DOTA_Tooltip_ability_sniper_headshot_ability_note"     "Not affected by <font color='#B694FF'>spell amp</font>"
-"DOTA_Tooltip_ability_sniper_take_aim_ability_note"     "Only works for ranged heros"
+"DOTA_Tooltip_ability_sniper_take_aim_ability_note"     "Only works for ranged heroes"
 
 //Spectre
 "DOTA_Tooltip_ability_spectre_haunt_ability_note"     "Cannot be <font color='#B694FF'>Rearmed</font>"
