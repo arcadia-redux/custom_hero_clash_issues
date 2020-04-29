@@ -212,7 +212,7 @@
 "DOTA_Tooltip_ability_furion_wrath_of_nature_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Necrophos
-
+"DOTA_Tooltip_ability_necrolyte_reapers_scythe_ability_note"			"Can be cast on <font color='#B694FF'>Roshan/font>"
 
 //Night Stalker
 
@@ -370,7 +370,7 @@
 
 //Void Spirit
 "DOTA_Tooltip_ability_void_spirit_aether_remnant_ability_note"		"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
-"DOTA_Tooltip_ability_void_spirit_astral_step_ability_note"				"Cannot be <font color='#B694FF'>Multicast</font><br>DOTA_Tooltip_ability_void_spirit_astral_step_ability_note"		"Void mark damage is affected by <font color='#B694FF'>spell amp</font><br>Does not <font color='#B694FF'>cleave</font> from <font color='#B694FF'>Battle Fury</font> or <font color='#B694FF'>Empower</font>"
+"DOTA_Tooltip_ability_void_spirit_astral_step_ability_note"				"Cannot be <font color='#B694FF'>Multicast</font><br>Void mark damage is affected by <font color='#B694FF'>spell amp</font><br>Does not <font color='#B694FF'>cleave</font> from <font color='#B694FF'>Battle Fury</font> or <font color='#B694FF'>Empower</font>"
 
 //Warlock
 "DOTA_Tooltip_ability_warlock_fatal_bonds_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font><br>Is affected by <font color='#B694FF'>spell amp</font>"
@@ -386,7 +386,7 @@
 
 
 //Witch Doctor
-"DOTA_Tooltip_ability_witch_doctor_death_ward_ability_note"			"Is affected <font color='#B694FF'>Crown of the Dominator</font>"
+"DOTA_Tooltip_ability_witch_doctor_death_ward_ability_note"			"Is affected by <font color='#B694FF'>Crown of the Dominator</font>"
 
 //Wraith King
 "DOTA_Tooltip_ability_skeleton_king_reincarnation_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font><br><font color='#B694FF'>Aghanim's Scepter</font> effect has been removed"
