@@ -54,7 +54,7 @@
 
 
 //Centaur Warrunner
-"DOTA_Tooltip_ability_centaur_return_note"								"Attack damage per charge is affected by <font color='#B694FF'>spell amp</font>"
+"DOTA_Tooltip_ability_centaur_return_ability_note"								"Attack damage per charge is affected by <font color='#B694FF'>spell amp</font>"
 
 //Chaos Knight
 
@@ -63,7 +63,7 @@
 
 
 //Clinkz
-
+"DOTA_Tooltip_ability_frostivus2018_clinkz_searing_arrows_ability_note"     "Is affected by <font color='#B694FF'>Searing Arrows Multishot talent</font>"
 
 //Clockwerk
 
@@ -303,6 +303,7 @@
 
 //Spectre
 "DOTA_Tooltip_ability_spectre_haunt_ability_note"     "Cannot be <font color='#B694FF'>Rearmed</font>"
+"DOTA_Tooltip_ability_spectre_haunt_ability_note"     "Damage reduction isn't affected by <font color='#B694FF'>spell amp</font>, however the damage reflected (damage taken by enemies hitting you) is affected by <font color='#B694FF'>spell amp</font>"
 
 //Spirit Breaker
 "DOTA_Tooltip_ability_spirit_breaker_nether_strike_ability_note"   "Requires <font color='#B694FF'>Greater Bash</font> in order to bash the target"
