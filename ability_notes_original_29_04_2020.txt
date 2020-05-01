@@ -221,7 +221,7 @@
 "DOTA_Tooltip_ability_nyx_assassin_vendetta_ability_note"			"<font color='#B694FF'>Aghanim's Sceptre</font> grants <font color='#B694FF'>Burrow</font>"
 
 //Ogre Magi
-"DOTA_Tooltip_ability_ogre_magi_multicast_custom_ability_note"		"Does not affect some abilities"
+"DOTA_Tooltip_ability_ogre_magi_multicast_custom_ability_note"		"Does not affect some abilities<br>Not affected by <font color='#B694FF'>break</font>"
 
 //Omniknight
 "DOTA_Tooltip_ability_omniknight_purification_ability_note"						"Only damage is affected by <font color='#B694FF'>spell amp</font>"
