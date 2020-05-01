@@ -105,7 +105,7 @@
 
 //Elder Titan
 "DOTA_Tooltip_ability_elder_titan_ancestral_spirit_ability_note"		"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font>"
-"DOTA_Tooltip_ability_elder_titan_natural_order_note"					"Does not affect <font color='#B694FF'>Roshan</font>"
+"DOTA_Tooltip_ability_elder_titan_natural_order_note"					"Does not affect <font color='#B694FF'>Roshan</font><br>The base magic resistance reduction won't work unless you have <font color='#B694FF'>Ancestral Spirit</font> or are <font color='#B694FF'>Elder Titan</font>"
 "DOTA_Tooltip_ability_elder_titan_earth_splitter_note"					"Does not affect <font color='#B694FF'>Roshan</font>"
 
 //Ember Spirit
