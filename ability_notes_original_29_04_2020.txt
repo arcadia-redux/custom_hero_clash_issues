@@ -394,4 +394,4 @@
 //Zeus
 "DOTA_Tooltip_ability_zuus_thundergods_vengeance_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 "DOTA_Tooltip_ability_zuus_thundergods_wrath_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font><br><font color='#B694FF'>Nimbus</font> will only deal damage if you have <font color='#B694FF'>Lightning Bolt</font>"
-"DOTA_Tooltip_ability_zuus_static_field_ability_note"			"Only gets applied by <font color='#B694FF'>Zeus'</font> spells damaging creeps<br>Is affected by <font color='#B694FF'>spell amp</font>"
+"DOTA_Tooltip_ability_zuus_static_field_ability_note"			"Only gets applied by regular <font color='#B694FF'>Zeus</font> spells<br>Is affected by <font color='#B694FF'>spell amp</font>"
