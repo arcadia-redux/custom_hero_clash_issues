@@ -130,10 +130,10 @@
 "DOTA_Tooltip_ability_gyrocopter_flak_cannon_ability_note"						"<font color='#B694FF'>Aghanim's Sceptre</font> effect only works as <font color='#B694FF'>Gyrocopter</font> and does not require <font color='#B694FF'>Flak Cannon</font><br>Has a lower radius on <font color='#B694FF'>melee heroes</font>"
 
 //Huskar
-"DOTA_Tooltip_ability_frostivus2018_huskar_burning_spear_ability_note"     "Is affected by <font color='#B694FF'>talents</font>
+"DOTA_Tooltip_ability_frostivus2018_huskar_burning_spear_ability_note"     "Is affected by <font color='#B694FF'>talents</font>"
 
 //Invoker
-
+"DOTA_Tooltip_ability_frostivus2018_huskar_burning_spear_ability_note"     "Health is not affected by <font color='#B694FF'>Crown of the Dominator</font> but attack speed, damage and armour are"
 
 //Io
 "DOTA_Tooltip_ability_wisp_spirits_ability_note"						"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font><br>Unless you are <font color='#B694FF'>Io, Aghanim's Scepter</font> must be bought before <font color='#B694FF'>Spirits</font> is levelled to level 4 or it will not work"
@@ -171,7 +171,7 @@
 
 
 //Lone Druid
-"DOTA_Tooltip_ability_lone_druid_spirit_bear_ability_note"				"Can be damaged in the <font color='#B694FF'>fountain</font> by other players"
+"DOTA_Tooltip_ability_lone_druid_spirit_bear_ability_note"				"Can be damaged in the <font color='#B694FF'>fountain</font> by other players<br>For the <font color='#B694FF'>spirit bear</font> to have its stats updated from <font color='#B694FF'>Crown of the Dominator</font> it must either die and be summoned agian or you must buy <font color='#B694FF'>Aghanim's Scepter</font>"
 "DOTA_Tooltip_ability_lone_druid_true_form_ability_note"				"Taking this ability ability also grants <font color='#B694FF'>Battle Cry</font> and <font color='#B694FF'>Druid Form</font>"
 //"DOTA_Tooltip_ability_lone_druid_savage_roar_ability_note"				"Does not affect <font color='#B694FF'>Roshan</font>"
 
