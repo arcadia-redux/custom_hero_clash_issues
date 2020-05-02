@@ -133,7 +133,7 @@
 "DOTA_Tooltip_ability_frostivus2018_huskar_burning_spear_ability_note"     "Is affected by <font color='#B694FF'>talents</font>"
 
 //Invoker
-"DOTA_Tooltip_ability_frostivus2018_huskar_burning_spear_ability_note"     "Health is not affected by <font color='#B694FF'>Crown of the Dominator</font> but attack speed, damage and armour are"
+"DOTA_Tooltip_ability_invoker_forge_spirit_lua_ability_note"     "Health is not affected by <font color='#B694FF'>Crown of the Dominator</font> but attack speed, damage and armour are"
 
 //Io
 "DOTA_Tooltip_ability_wisp_spirits_ability_note"						"Cannot be <font color='#B694FF'>unlearned</font> or <font color='#B694FF'>swapped</font><br>Unless you are <font color='#B694FF'>Io, Aghanim's Scepter</font> must be bought before <font color='#B694FF'>Spirits</font> is levelled to level 4 or it will not work"
