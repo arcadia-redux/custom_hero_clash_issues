@@ -24,7 +24,7 @@
 
 //Bane
 "DOTA_Tooltip_ability_bane_enfeeble_ability_note"						"Does not trigger on <font color='#B694FF'>Point Target</font> abilities"
-"DOTA_Tooltip_ability_bane_nightmare_ability_note"						"Cannot be <font color='#B694FF'>Multicast</font>"
+"DOTA_Tooltip_ability_bane_nightmare_ability_note"						"Cannot be <font color='#B694FF'>Multicast</font><br><font color='#B694FF'>Bane</font> is required to attack nightmared targets freely."
 "DOTA_Tooltip_ability_bane_fiends_grip_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
 
 //Batrider
