@@ -224,7 +224,7 @@
 "DOTA_Tooltip_ability_ogre_magi_multicast_custom_ability_note"		"Does not affect some abilities<br>Not affected by <font color='#B694FF'>break</font>"
 
 //Omniknight
-"DOTA_Tooltip_ability_omniknight_purification_ability_note"						"Only damage is affected by <font color='#B694FF'>spell amp</font>"
+"DOTA_Tooltip_ability_omniknight_purification_ability_note"						"Only damage is affected by <font color='#B694FF'>spell amp</font><br>Is affected by the <font color='#B694FF'>+160 purification damage/heal</font> talent but not the <font color='#B694FF'>-2s purification cooldown</font> talent"
 "DOTA_Tooltip_ability_frostivus2018_omniknight_purification_ability_note"		"Only damage is affected by <font color='#B694FF'>spell amp</font>"
 
 //Oracle
