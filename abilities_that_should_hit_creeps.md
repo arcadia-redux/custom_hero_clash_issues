@@ -2,19 +2,14 @@
 * Item - Aeon Disk
 * Alchemist - Unstable Concoction
 * Ancient Apparation - Ice Blast `DoT and kill threshold`
-* Bloodseeker - Thirst
-* Bounty Hunter - Track
 * Clinkz - Burning Army
 * Earth Spirit - Magnetise `The refresh etc.`
 * Grimstroke - Souldbind
 * Grimstroke - Ink Swell
 * Juggernaut - Omnislash `Already damages Rosh, might as well be targetable`
-* ~~Legion Commander - Duel~~ `Shouldn't give damage on creeps ~mmdts`
 * Magnus - Skewer
-* Mars - Spear of Mars
-* Mars - Arena of Blood
-* ~~Monkey King - Jingu Mastery~~ `Wouldn't this be too imbalanced? ~mmdts`
-* Monkey King - Wukong's Command
+* Mars - Spear of Mars `Low priority`
+* Monkey King - Jingu Mastery `Might need to have values adjusted`
 * Nyx Assassin - Spiked Carapace
 * Nyx Assassin - Mana Burn
 * Outworld Devourer - Sanity's Eclipse
@@ -29,10 +24,10 @@
 #### Probably buggy:
 * Dark Seer - Wall of Replica
 * Shadow Demon - Disruption
-* Spectre - Haunt
 * Terrorblade - Reflection
 
 #### Suggested but wouldn't really work as is:
-* Morphling - Morph
+* Bounty Hunter - Track
+* Legion Commander - Duel
 * Slark - Essence Shift `Should have to get reset at every round+duel start or would be unfair ~mmdts`
 * Undying - Decay `Should have to get reset at every round+duel start or would be unfair ~mmdts`
