@@ -48,6 +48,7 @@
 
 //Bristleback
 "DOTA_Tooltip_ability_bristleback_quill_spray_note"						"Base damage, stack damage, and max damage cap are affected by <font color='#B694FF'>spell amp</font>"
+"DOTA_Tooltip_ability_bristleback_bristleback_note"						"<font color='#B694FF'>Quill Spray</font> is required for bristleback to passively trigger <font color='#B694FF'>Quill Spray</font> when taking damage from behind"
 
 //Broodmother
 
@@ -189,6 +190,7 @@
 
 //Medusa
 "DOTA_Tooltip_ability_medusa_split_shot_ability_note"			"<font color='#B694FF'>Drow Ranger's <b>Marksmanship</b></font> cannot be found if you have <font color='#B694FF'>Split Shot</font><br><font color='#B694FF'>Auto-cast</font> abilities will use extra mana based on the number of units hit even if you don't have the split shot uses modifiers talent<br>Abilities that give you a limited number of on hit effects (overpower, refraction, etc) will use extra charges based on the number of units hit even if you don't have the split shot uses modifiers talent"
+"DOTA_Tooltip_ability_medusa_mystic_snake_ability_note"     "<font color='#B694FF'>Aghanim's Scepter</font> effect requires you to have the ability<font color='#B694FF'>Stone Gaze</font>"
 
 //Meepo
 
