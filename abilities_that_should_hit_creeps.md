@@ -11,7 +11,6 @@
 * Mars - Spear of Mars `Low priority`
 * Monkey King - Jingu Mastery `Might need to have values adjusted`
 * Nyx Assassin - Spiked Carapace
-* Nyx Assassin - Mana Burn
 * Outworld Devourer - Sanity's Eclipse
 * Puck - Dream Coil
 * Razor - Static Link
@@ -29,5 +28,6 @@
 #### Suggested but wouldn't really work as is:
 * Bounty Hunter - Track
 * Legion Commander - Duel
+* Nyx Assassin - Mana Burn `Intelligence function would need to be changed`
 * Slark - Essence Shift `Should have to get reset at every round+duel start or would be unfair ~mmdts`
 * Undying - Decay `Should have to get reset at every round+duel start or would be unfair ~mmdts`
