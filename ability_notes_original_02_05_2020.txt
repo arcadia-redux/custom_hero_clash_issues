@@ -39,7 +39,7 @@
 
 
 //Bounty Hunter
-
+"DOTA_Tooltip_ability_bounty_hunter_jinada_ability_note"	"Does not steal gold"
 
 
 //Brewmaster
@@ -65,6 +65,7 @@
 
 //Clinkz
 "DOTA_Tooltip_ability_frostivus2018_clinkz_searing_arrows_ability_note"     "Is affected by <font color='#B694FF'>Searing Arrows Multishot talent</font>"
+"DOTA_Tooltip_ability_clinkz_wind_walk_ability_note"     "<font color='#B694FF'>Aghanim's Scepter</font> effect requires <font color='#B694FF'>Burning Army</font>"
 
 //Clockwerk
 
