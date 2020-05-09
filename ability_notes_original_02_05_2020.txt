@@ -77,6 +77,7 @@
 
 
 //Dark Willow
+"DOTA_Tooltip_ability_dark_willow_shadow_realm_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
 "DOTA_Tooltip_ability_dark_willow_bedlam_ability_note"					"Cannot be <font color='#B694FF'>Multicast</font>"
 "DOTA_Tooltip_ability_frostivus2018_dark_willow_bedlam_ability_note" 	"Cannot be <font color='#B694FF'>Multicast</font>"
 
@@ -91,6 +92,7 @@
 
 
 //Doom
+"DOTA_Tooltip_ability_doom_bringer_devour_ability_note"				"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 
 //Dragon Knight
@@ -215,7 +217,7 @@
 "DOTA_Tooltip_ability_furion_wrath_of_nature_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Necrophos
-"DOTA_Tooltip_ability_necrolyte_reapers_scythe_ability_note"			"Can be cast on <font color='#B694FF'>Roshan/font>"
+"DOTA_Tooltip_ability_necrolyte_reapers_scythe_ability_note"			"Can be cast on <font color='#B694FF'>Roshan</font>"
 
 //Night Stalker
 
@@ -229,6 +231,7 @@
 //Omniknight
 "DOTA_Tooltip_ability_omniknight_purification_ability_note"						"Only damage is affected by <font color='#B694FF'>spell amp</font><br>Is affected by the <font color='#B694FF'>+160 purification damage/heal</font> talent but not the <font color='#B694FF'>-2s purification cooldown</font> talent"
 "DOTA_Tooltip_ability_frostivus2018_omniknight_purification_ability_note"		"Only damage is affected by <font color='#B694FF'>spell amp</font>"
+"DOTA_Tooltip_ability_omniknight_guardian_angel_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
 
 //Oracle
 "DOTA_Tooltip_ability_oracle_false_promise_ability_note"			"Cannot be <font color='#B694FF'>Rearmed</font>"
