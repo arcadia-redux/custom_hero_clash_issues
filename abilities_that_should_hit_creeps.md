@@ -1,36 +1,21 @@
-#### General:
-* Item - Aeon Disk
-* ~~Alchemist - Unstable Concoction~~
-* Ancient Apparation - Ice Blast `DoT and kill threshold`
-* ~~Clinkz - Burning Army~~
-* ~~Earth Spirit - Magnetize~~ `The refresh etc.`
-* ~~Grimstroke - Soul bind~~
+#### Require reworks:
+* Aeon Disk
+* Ancient Apparition - Ice Blast
 * Grimstroke - Ink Swell
-* ~~Juggernaut - Omnislash~~ `Already damages Rosh, might as well be targetable`
-* ~~Magnus - Skewer~~
-* Mars - Spear of Mars `Low priority`
-* Monkey King - Jingu Mastery `Might need to have values adjusted`
+* Mars - Spear of Mars
+* Monkey King - Jingu Mastery
 * Nyx Assassin - Spiked Carapace
 * Outworld Devourer - Sanity's Eclipse
-* ~~Puck - Dream Coil~~
-* ~~Razor - Static Link~~
+* Tinker - Laser Scepter bounces
+* Nyx Assassin - Mana Burn
+* Slark - Essence Shift
 
-~~* Slark - Pounce~~ Probably better not to hit creeps
-* ~~Terrorblade - Sunder~~
-* ~~Tinker - Heat Seeking Missile~~
-* Tinker - Laser `Scepter`
-* ~~Witch Doctor - Maledict~~
+#### Work currently, but probably still need a rework
+* Bounty Hunter - Track
+* Legion Commander - Duel
 
-#### Probably buggy:
-~~* Dark Seer - Wall of Replica~~ Too imbalanced
+#### Working but not completely functional:
 
-~~* Shadow Demon - Disruption~~ Too imba or buggy
-
-~~* Terrorblade - Reflection~~ Too imba or buggy
-
-#### Suggested but wouldn't really work as is:
-* ~~Bounty Hunter - Track~~
-* ~~Legion Commander - Duel~~
-* Nyx Assassin - Mana Burn `Intelligence function would need to be changed`
-* Slark - Essence Shift `Should have to get reset at every round+duel start or would be unfair ~mmdts`
-* ~~Undying - Decay~~ `Should have to get reset at every round+duel start or would be unfair ~mmdts`
+* Grimstroke - Soul bind (binds the target creep, but doesn't latch to another one as a secondary target)
+* Undying - Decay (deals damage but does not steal strength)
+* Shadow Demon - Disruption (does not create illusions)
