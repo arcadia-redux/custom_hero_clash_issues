@@ -14,16 +14,16 @@
 * Outworld Devourer - Sanity's Eclipse
 * Puck - Dream Coil
 * Razor - Static Link
-* Slark - Pounce
+~~* Slark - Pounce~~ Probably better not to hit creeps
 * Terrorblade - Sunder
 * Tinker - Heat Seeking Missile
 * Tinker - Laser `Scepter`
 * Witch Doctor - Maledict
 
 #### Probably buggy:
-* Dark Seer - Wall of Replica
-* Shadow Demon - Disruption
-* Terrorblade - Reflection
+~~* Dark Seer - Wall of Replica~~ Too imbalanced
+~~* Shadow Demon - Disruption~~ Too imba or buggy
+~~* Terrorblade - Reflection~~ Too imba or buggy
 
 #### Suggested but wouldn't really work as is:
 * Bounty Hunter - Track
