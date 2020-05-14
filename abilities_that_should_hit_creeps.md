@@ -1,22 +1,22 @@
 #### General:
 * Item - Aeon Disk
-* Alchemist - Unstable Concoction
+* ~~Alchemist - Unstable Concoction
 * Ancient Apparation - Ice Blast `DoT and kill threshold`
-* Clinkz - Burning Army
+* ~~Clinkz - Burning Army
 * Earth Spirit - Magnetise `The refresh etc.`
-* Grimstroke - Souldbind
+* ~~Grimstroke - Souldbind
 * Grimstroke - Ink Swell
-* Juggernaut - Omnislash `Already damages Rosh, might as well be targetable`
+* ~~Juggernaut - Omnislash `Already damages Rosh, might as well be targetable`
 * Magnus - Skewer
 * Mars - Spear of Mars `Low priority`
 * Monkey King - Jingu Mastery `Might need to have values adjusted`
 * Nyx Assassin - Spiked Carapace
 * Outworld Devourer - Sanity's Eclipse
 * Puck - Dream Coil
-* Razor - Static Link
+* ~~Razor - Static Link
 
 ~~* Slark - Pounce~~ Probably better not to hit creeps
-* Terrorblade - Sunder
+* T~~errorblade - Sunder
 * Tinker - Heat Seeking Missile
 * Tinker - Laser `Scepter`
 * Witch Doctor - Maledict
