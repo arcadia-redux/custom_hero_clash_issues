@@ -22,7 +22,9 @@
 
 #### Probably buggy:
 ~~* Dark Seer - Wall of Replica~~ Too imbalanced
+
 ~~* Shadow Demon - Disruption~~ Too imba or buggy
+
 ~~* Terrorblade - Reflection~~ Too imba or buggy
 
 #### Suggested but wouldn't really work as is:
