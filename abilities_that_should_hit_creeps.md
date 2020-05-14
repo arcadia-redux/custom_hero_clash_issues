@@ -3,7 +3,7 @@
 * ~~Alchemist - Unstable Concoction~~
 * Ancient Apparation - Ice Blast `DoT and kill threshold`
 * ~~Clinkz - Burning Army~~
-* Earth Spirit - Magnetise `The refresh etc.`
+* ~~Earth Spirit - Magnetize~~ `The refresh etc.`
 * ~~Grimstroke - Souldbind~~
 * Grimstroke - Ink Swell
 * ~~Juggernaut - Omnislash~~ `Already damages Rosh, might as well be targetable`
