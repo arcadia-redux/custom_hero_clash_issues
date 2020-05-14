@@ -6,7 +6,7 @@
 * Earth Spirit - Magnetise `The refresh etc.`
 * ~~Grimstroke - Souldbind~~
 * Grimstroke - Ink Swell
-* ~~Juggernaut - Omnislash `Already damages Rosh, might as well be targetable`~
+* ~~Juggernaut - Omnislash~~ `Already damages Rosh, might as well be targetable`
 * Magnus - Skewer
 * Mars - Spear of Mars `Low priority`
 * Monkey King - Jingu Mastery `Might need to have values adjusted`
