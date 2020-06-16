@@ -288,8 +288,7 @@
   "5"    "tusk_walrus_punch"
   }
   "elder_titan" {
-  "elder_titan_ancestral_spirit" {"elder_titan_return_spirit" "0"}
-  "elder_titan_echo_stomp" {"elder_titan_ancestral_spirit" "0" "elder_titan_return_spirit" "0"} 
+  "elder_titan_ancestral_spirit" {"elder_titan_return_spirit" "0"} 
   "1"    "elder_titan_echo_stomp"
   "2"    "elder_titan_ancestral_spirit"
   "3"    "elder_titan_natural_order"
