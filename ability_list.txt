@@ -13,12 +13,12 @@
   "4"    "sven_gods_strength"
   }
   "tiny" {
-  //"tiny_tree_grab" {"tiny_toss_tree" "0"}
+  "tiny_tree_grab_lua" {"tiny_tree_throw_lua" "0"}
   "1"    "tiny_avalanche"
   "2"    "tiny_toss"
-  //"3"    "tiny_tree_grab"
-  "3"    "tiny_craggy_exterior"
-  "4"    "tiny_grow"
+  "3"    "tiny_tree_grab_lua"
+  "4"    "tiny_craggy_exterior"
+  "5"    "tiny_grow"
   }
   "kunkka" {
   "kunkka_x_marks_the_spot" {"kunkka_return" "0"}
@@ -28,7 +28,6 @@
   "4"    "kunkka_ghostship"
   }
   "beastmaster" {
-  "beastmaster_call_of_the_wild_boar" {"beastmaster_call_of_the_wild_hawk" "0"}
   "1"    "beastmaster_wild_axes"
   "2"    "beastmaster_call_of_the_wild_boar"
   "3"    "beastmaster_inner_beast"
@@ -56,7 +55,7 @@
   "1"    "drow_ranger_frost_arrows"
   "2"    "drow_ranger_wave_of_silence"
   "3"    "drow_ranger_multishot"
-  "4"    "drow_ranger_trueshot_lua"
+  "4"    "drow_ranger_trueshot_chc"
   "5"    "drow_ranger_marksmanship"
   }
   "juggernaut" {
@@ -66,7 +65,7 @@
   "4"    "juggernaut_omni_slash"
   }
   "mirana" {
-  "1"    "mirana_starfall_datadriven"
+  "1"    "mirana_starfall_lua"
   "2"    "mirana_arrow"
   "3"    "mirana_leap"
   "4"    "mirana_invis"
@@ -93,7 +92,7 @@
   "crystal_maiden" {
   "1"    "crystal_maiden_crystal_nova"
   "2"    "crystal_maiden_frostbite"
-  "3"    "crystal_maiden_brilliance_aura"
+  "3"    "crystal_maiden_brilliance_aura_lua"
   "4"    "crystal_maiden_freezing_field"
   }
   "puck" {
@@ -109,11 +108,10 @@
   "3"    "storm_spirit_overload"
   }
   "windrunner" {
-  "1"    "windrunner_shackleshot"
-  "2"    "frostivus2018_windrunner_shackleshot"
-  "3"    "windrunner_powershot"
-  "4"    "windrunner_windrun"
-  "5"    "windrunner_focusfire"
+  "1"    "frostivus2018_windrunner_shackleshot"
+  "2"    "windrunner_powershot"
+  "3"    "windrunner_windrun"
+  "4"    "windrunner_focusfire"
   }
   "zuus" {
   "1"    "zuus_arc_lightning"
@@ -135,21 +133,19 @@
   "4"    "shadow_shaman_mass_serpent_ward"
   }
   "omniknight" {
-  "1"    "omniknight_purification"
-  "2"    "frostivus2018_omniknight_purification"
-  "3"    "omniknight_repel"
-  "4"    "omniknight_pacify"
-  "5"    "omniknight_degen_aura"
-  "6"    "omniknight_guardian_angel"
+  "1"    "frostivus2018_omniknight_purification"
+  "2"    "omniknight_repel"
+  "3"    "omniknight_pacify"
+  "4"    "omniknight_degen_aura"
+  "5"    "omniknight_guardian_angel"
   //"7"    "frostivus2018_omniknight_degen_aura"
   }
   "huskar" {
   "1"    "huskar_inner_vitality"
-  "2"    "huskar_burning_spear"
-  "3"    "frostivus2018_huskar_burning_spear"
-  "4"    "huskar_inner_fire"
-  "5"    "huskar_berserkers_blood"
-  "6"    "huskar_life_break"
+  "2"    "frostivus2018_huskar_burning_spear"
+  "3"    "huskar_inner_fire"
+  "4"    "huskar_berserkers_blood"
+  "5"    "huskar_life_break"
   }
   "alchemist" {
   "alchemist_unstable_concoction" {"alchemist_unstable_concoction_throw" "0"}
@@ -174,7 +170,14 @@
   "wisp_tether" {"wisp_tether_break" "0"}
   "wisp_spirits" {"wisp_spirits_in" "0"}
   "1"    "wisp_tether"
-  "2"    "wisp_spirits"
+  //"2"    "wisp_spirits"
+  "3"    "wisp_overcharge"
+  }
+  "starter" {
+  "wisp_tether" {"wisp_tether_break" "0"}
+  "wisp_spirits" {"wisp_spirits_in" "0"}
+  "1"    "wisp_tether"
+  //"2"    "wisp_spirits"
   "3"    "wisp_overcharge"
   }
   "centaur" {
@@ -252,7 +255,7 @@
   "1"    "chen_penitence"
   "2"    "chen_divine_favor"
   "3"    "chen_test_of_faith"
-  "4"    "chen_hand_of_god"
+  "4"    "chen_hand_of_god_lua"
   }
   "silencer" {
   "1"    "silencer_curse_of_the_silent"
@@ -271,7 +274,7 @@
   "1"    "shredder_whirling_death"
   "2"    "shredder_timber_chain"
   "3"    "shredder_reactive_armor"
-  "4"    "shredder_chakram"
+  //"4"    "shredder_chakram"
   }
   "bristleback" {
   "1"    "bristleback_viscous_nasal_goo"
@@ -283,14 +286,14 @@
   "tusk_snowball" {"tusk_launch_snowball" "0"}
   "1"    "tusk_ice_shards"
   "2"    "tusk_snowball"
-  "3"    "tusk_frozen_sigil"
-  "4"    "tusk_tag_team"
-  "5"    "tusk_walrus_punch"
+  "3"    "tusk_tag_team"
+  "4"    "tusk_walrus_punch"
   }
   "elder_titan" {
   "elder_titan_ancestral_spirit" {"elder_titan_return_spirit" "0"} 
-  "1"    "elder_titan_echo_stomp"
-  "2"    "elder_titan_ancestral_spirit"
+  "elder_titan_echo_stomp" {"elder_titan_ancestral_spirit" "0" "elder_titan_return_spirit" "0"}
+  //"1"    "elder_titan_echo_stomp"
+  //"2"    "elder_titan_ancestral_spirit"
   "3"    "elder_titan_natural_order"
   "4"    "elder_titan_earth_splitter"
   }
@@ -325,7 +328,7 @@
   "1"    "lone_druid_spirit_bear"
   "2"    "lone_druid_rabid"
   "3"    "lone_druid_spirit_link"
-  "4"    "lone_druid_true_form"
+  //"4"    "lone_druid_true_form"
   }
   "naga_siren" {
   "naga_siren_song_of_the_siren" {"naga_siren_song_of_the_siren_cancel" "0"}
@@ -352,7 +355,7 @@
   "1"     "arc_warden_flux"
   "2"     "arc_warden_magnetic_field"
   "3"     "arc_warden_spark_wraith"
-  //"4"     "arc_warden_tempest_double"
+  "4"     "arc_warden_tempest_double_lua"
   }
   "rubick" {
   "rubick_telekinesis" {"rubick_telekinesis_land" "0"}
@@ -402,8 +405,10 @@
   "pudge" {
   "1"    "pudge_meat_hook"
   "2"    "pudge_rot"
-  "3"    "pudge_flesh_heap"
-  "4"    "pudge_dismember"
+  "3"    "pudge_flesh_heap_lua_strength"
+  "4"    "pudge_flesh_heap_lua_agility"
+  "5"    "pudge_flesh_heap_lua_intelligence"
+  "6"    "pudge_dismember"
   }
   "sand_king" {
   "1"    "sandking_burrowstrike"
@@ -420,7 +425,7 @@
   "tidehunter" {
   "1"    "tidehunter_gush"
   "2"    "tidehunter_kraken_shell"
-  "3"    "tidehunter_anchor_smash"
+  "3"    "tidehunter_anchor_smash_lua"
   "4"    "tidehunter_ravage"
   }
   "skeleton_king" {
@@ -430,9 +435,11 @@
   "4"    "skeleton_king_reincarnation"
   }
   "life_stealer" {
+  "lifestealer_infest_lua" {"lifestealer_eject_lua" "0"}
   "1"    "life_stealer_rage"
   "2"    "life_stealer_feast"
   "3"    "life_stealer_open_wounds"
+  "4"		 "lifestealer_infest_lua"
   }
   "bloodseeker" {
   "1"    "bloodseeker_bloodrage"
@@ -519,9 +526,9 @@
   }
   
   "warlock" {
-  "1"    "warlock_fatal_bonds"
+  "1"    "warlock_fatal_bonds_chc"
   "2"    "warlock_shadow_word"
-  "3"    "warlock_upheaval"
+  "3"    "warlock_upheaval_lua"
   "4"    "warlock_rain_of_chaos"
   }
   "night_stalker" {
@@ -555,10 +562,9 @@
   "4"    "chaos_knight_phantasm"
   }
   "undying" {
-  "1"    "undying_decay"
+  "1"    "undying_decay_lua"
   "2"    "undying_soul_rip"
-  //"3"    "undying_tombstone_lua"
-  "4"    "undying_flesh_golem"
+  "3"    "undying_flesh_golem"
   }
   "magnataur" {
   "1"    "magnataur_shockwave"
@@ -568,11 +574,8 @@
   }
   "clinkz" {
   "1"    "clinkz_strafe"
-  "2"    "clinkz_searing_arrows"
-  "3"    "frostivus2018_clinkz_searing_arrows"
-  "4"    "clinkz_wind_walk"
-  "5"    "frostivus2018_clinkz_wind_walk"
-  "6"    "clinkz_burning_army"
+  "2"    "frostivus2018_clinkz_searing_arrows"
+  "3"    "frostivus2018_clinkz_wind_walk"
   }
   "broodmother" {
   "1"    "broodmother_spawn_spiderlings"
@@ -606,7 +609,7 @@
   "slark" {
   "1"    "slark_dark_pact"
   "2"    "slark_pounce"
-  "3"    "slark_essence_shift"
+  "3"    "slark_essence_shift_lua"
   "4"    "slark_shadow_dance"
   }
   "queenofpain" {
@@ -656,7 +659,7 @@
   "abaddon" {
   "1"    "abaddon_death_coil"
   "2"    "abaddon_aphotic_shield"
-  "3"    "abaddon_borrowed_time"
+  "3"    "abaddon_borrowed_time_lua"
   "4"    "abaddon_frostmourne"
   }
   "abyssal_underlord" {
@@ -684,22 +687,22 @@
   "4"    "ancient_apparition_ice_blast"
   }
   "invoker" {
-  "1"    "invoker_forge_spirit_lua"
-  "2"    "invoker_deafening_blast_lua"
-  "3"    "invoker_chaos_meteor_lua"
+  "1"    "invoker_forge_spirit_ad"
+  "2"    "invoker_deafening_blast_ad"
+  "3"    "invoker_chaos_meteor_ad"
   "4"    "invoker_alacrity_lua"
-  "5"    "invoker_ice_wall_lod"
-  "6"    "invoker_tornado_lua"
-  "7"    "invoker_emp_lua"
-  "8"    "invoker_sun_strike_lua"
-  "9"    "invoker_cold_snap_lua"
-  "10"   "invoker_ghost_walk_lua"
+  "5"    "invoker_ice_wall_ad"
+  "6"    "invoker_tornado_ad"
+  "7"    "invoker_emp_ad"
+  "8"    "invoker_sun_strike_ad"
+  "9"    "invoker_cold_snap_ad"
+  "10"   "invoker_ghost_walk_ad"
   }
   "obsidian_destroyer" {
   "1"    "obsidian_destroyer_arcane_orb"
   "2"    "obsidian_destroyer_astral_imprisonment"
   "3"    "obsidian_destroyer_equilibrium"
-  "4"    "obsidian_destroyer_essence_aura_datadriven"
+  //"4"    "obsidian_destroyer_essence_aura_datadriven"
   "5"    "obsidian_destroyer_sanity_eclipse"
   }
   "shadow_demon" {
@@ -707,7 +710,7 @@
   "1"    "shadow_demon_disruption"
   "2"    "shadow_demon_soul_catcher"
   "3"    "shadow_demon_shadow_poison"
-  "4"    "shadow_demon_demonic_purge"
+  "4"    "shadow_demon_demonic_purge_lua"
   }
   "visage" {
   "1"    "visage_grave_chill"
@@ -729,8 +732,8 @@
   "monkey_king_tree_dance" {"monkey_king_primal_spring" "0" "monkey_king_primal_spring_early" "0"}
   "1"    "monkey_king_boundless_strike"
   "2"    "monkey_king_tree_dance"
-  //"3"    "monkey_king_wukongs_command"
-  "4"    "monkey_king_jingu_mastery_lua"
+  "3"    "monkey_king_jingu_mastery_lua"
+  "4"    "monkey_king_wukongs_command_lua"
   }
   "pangolier" {
   "pangolier_gyroshell" {"pangolier_gyroshell_stop" "0"}
@@ -744,8 +747,7 @@
   "1"    "dark_willow_bramble_maze"
   "2"    "dark_willow_shadow_realm"
   "3"    "dark_willow_cursed_crown"
-  //自动学会恐吓技能
-  "4"    "dark_willow_bedlam"
+  "4"    "dark_willow_terrorize"
   "5"    "frostivus2018_dark_willow_bedlam"
   }
   "grimstroke" {
@@ -761,7 +763,7 @@
   "4"    "mars_arena_of_blood"
    }
   "void_spirit" {
-  "1"    "void_spirit_aether_remnant"
+  //"1"    "void_spirit_aether_remnant"
   "2"    "void_spirit_dissimilate"
   "3"    "void_spirit_resonant_pulse"
   "4"    "void_spirit_astral_step"
