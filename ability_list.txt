@@ -12,6 +12,7 @@
 		"1" "abyssal_underlord_firestorm"
 		"2" "abyssal_underlord_pit_of_malice"
 		"3" "abyssal_underlord_atrophy_aura"
+		"4" "abyssal_underlord_dark_rift"
 	}
 	"alchemist"
 	{
@@ -104,6 +105,7 @@
 		"2" "brewmaster_drunken_haze"
 		"3" "brewmaster_cinder_brew"
 		"4" "brewmaster_drunken_brawler"
+		"5"	"brewmaster_primal_split"
 	}
 	"bristleback"
 	{
@@ -174,6 +176,7 @@
 		"1" "dawnbreaker_fire_wreath"
 		"2" "dawnbreaker_celestial_hammer"
 		"3" "dawnbreaker_solar_guardian"
+		"4" "dawnbreaker_luminosity"
 
 		"dawnbreaker_celestial_hammer" 
 		{
@@ -198,8 +201,9 @@
 	"disruptor"
 	{
 		"1" "disruptor_thunder_strike"
-		"2" "disruptor_kinetic_field"
-		"3" "disruptor_static_storm"
+		"2" "disruptor_glimpse"
+		"3" "disruptor_kinetic_field"
+		"4" "disruptor_static_storm"
 	}
 	"doom_bringer"
 	{
@@ -290,6 +294,7 @@
 		"1" "enchantress_impetus"
 		"2" "enchantress_natures_attendants"
 		"3" "enchantress_untouchable"
+		"4" "enchantress_bunny_hop"
 	}
 	"enigma"
 	{
@@ -316,6 +321,7 @@
 		"1" "furion_sprout"
 		"2" "furion_force_of_nature"
 		"3" "furion_wrath_of_nature"
+		"4" "furion_teleportation"
 	}
 	"grimstroke"
 	{
@@ -407,7 +413,7 @@
 		"1" "legion_commander_overwhelming_odds"
 		"2" "legion_commander_press_the_attack"
 		"3" "legion_commander_moment_of_courage"
-		//"4" "legion_commander_duel"
+		"4" "legion_commander_duel"
 	}
 	"leshrac"
 	{
@@ -429,6 +435,7 @@
 		"1" "life_stealer_rage"
 		"2" "life_stealer_feast"
 		"3" "life_stealer_ghoul_frenzy"
+		"4" "life_stealer_infest"
 	}
 	"lina"
 	{
@@ -449,6 +456,7 @@
 		"1" "lone_druid_spirit_bear"
 		"2" "lone_druid_rabid"
 		"3" "lone_druid_spirit_link"
+		"4" "lone_druid_savage_roar"
 
 		"lone_druid_true_form"
 		{
@@ -496,6 +504,7 @@
 		"1" "meepo_earthbind"
 		"2" "meepo_poof"
 		"3" "meepo_ransack"
+		"4" "meepo_divided_we_stand"
 	}
 	"mirana"
 	{
@@ -522,6 +531,7 @@
 		"1" "morphling_waveform"
 		"2" "morphling_adaptive_strike_agi"
 		"3" "morphling_morph_agi"
+		"4" "morphling_replicate"
 
 		"morphling_adaptive_strike_agi"
 		{
@@ -557,6 +567,7 @@
 	{
 		"1" "nevermore_dark_lord"
 		"2" "nevermore_requiem"
+		"3" "nevermore_shadowraze2"
 
 		"nevermore_requiem"
 		{
@@ -582,7 +593,7 @@
 		"1" "obsidian_destroyer_arcane_orb"
 		"2" "obsidian_destroyer_astral_imprisonment"
 		"3" "obsidian_destroyer_equilibrium"
-		"4" "obsidian_destroyer_sanity_eclipse"
+		"4" "obsidian_destroyer_sanity_eclipse_lua"
 	}
 	"ogre_magi"
 	{
@@ -621,7 +632,7 @@
 	}
 	"phantom_assassin"
 	{
-		"1" "phantom_assassin_stifling_dagger_nb2017"
+		"1" "phantom_assassin_stifling_dagger"
 		"2" "phantom_assassin_phantom_strike"
 		"3" "phantom_assassin_blur"
 		"4" "phantom_assassin_coup_de_grace"
@@ -638,6 +649,7 @@
 		"1" "phoenix_icarus_dive"
 		"2" "phoenix_fire_spirits"
 		"3" "phoenix_sun_ray"
+		"4" "phoenix_supernova"
 
 		"phoenix_fire_spirits"
 		{
@@ -754,6 +766,7 @@
 		"1" "shredder_whirling_death"
 		"2" "shredder_timber_chain"
 		"3" "shredder_reactive_armor"
+		"4" "shredder_chakram"
 
 		"shredder_chakram"
 		{
@@ -813,7 +826,8 @@
 	{
 		"1" "spectre_spectral_dagger"
 		"2" "spectre_desolate"
-		"3" "spectre_dispersion"
+		"3" "spectre_dispersion_lua"
+		"4" "spectre_haunt"
 	}
 	"spirit_breaker"
 	{
@@ -842,6 +856,7 @@
 		"1" "storm_spirit_static_remnant"
 		"2" "storm_spirit_electric_vortex"
 		"3" "storm_spirit_overload"
+		"4" "storm_spirit_ball_lightning"
 	}
 	"sven"
 	{
@@ -943,6 +958,7 @@
 		"1" "undying_decay_lua"
 		"2" "undying_soul_rip"
 		"3" "undying_flesh_golem"
+		"4" "undying_tombstone"
 	}
 	"ursa"
 	{
@@ -977,9 +993,11 @@
 		"1" "visage_grave_chill"
 		"2" "visage_soul_assumption"
 		"3" "visage_summon_familiars"
+		"4" "visage_gravekeepers_cloak"
 	}
 	"void_spirit"
 	{
+		"1" "void_spirit_aether_remnant"
 		"2" "void_spirit_dissimilate"
 		"3" "void_spirit_resonant_pulse"
 		"4" "void_spirit_astral_step"
@@ -1015,7 +1033,9 @@
 	"wisp"
 	{
 		"1" "wisp_tether"
+		"2" "wisp_spirits"
 		"3" "wisp_overcharge"
+		"4" "wisp_relocate"
 
 		"wisp_spirits"
 		{
